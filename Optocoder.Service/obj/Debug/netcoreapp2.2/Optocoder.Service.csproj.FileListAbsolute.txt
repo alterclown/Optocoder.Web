@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Optcoder.Web.Core\Optocoder.Service\bin\Debug\netcoreapp2.2\Optocoder.Service.deps.json
+C:\Users\User\source\repos\Optcoder.Web.Core\Optocoder.Service\bin\Debug\netcoreapp2.2\Optocoder.Service.dll
+C:\Users\User\source\repos\Optcoder.Web.Core\Optocoder.Service\bin\Debug\netcoreapp2.2\Optocoder.Service.pdb
+C:\Users\User\source\repos\Optcoder.Web.Core\Optocoder.Service\bin\Debug\netcoreapp2.2\Optocoder.Data.dll
+C:\Users\User\source\repos\Optcoder.Web.Core\Optocoder.Service\bin\Debug\netcoreapp2.2\Optocoder.Repository.dll
+C:\Users\User\source\repos\Optcoder.Web.Core\Optocoder.Service\bin\Debug\netcoreapp2.2\Optocoder.Repository.pdb
+C:\Users\User\source\repos\Optcoder.Web.Core\Optocoder.Service\bin\Debug\netcoreapp2.2\Optocoder.Data.pdb
+C:\Users\User\source\repos\Optcoder.Web.Core\Optocoder.Service\obj\Debug\netcoreapp2.2\Optocoder.Service.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Optcoder.Web.Core\Optocoder.Service\obj\Debug\netcoreapp2.2\Optocoder.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Optcoder.Web.Core\Optocoder.Service\obj\Debug\netcoreapp2.2\Optocoder.Service.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Optcoder.Web.Core\Optocoder.Service\obj\Debug\netcoreapp2.2\Optocoder.Service.AssemblyInfo.cs
+C:\Users\User\source\repos\Optcoder.Web.Core\Optocoder.Service\obj\Debug\netcoreapp2.2\Optocoder.Service.csproj.CopyComplete
+C:\Users\User\source\repos\Optcoder.Web.Core\Optocoder.Service\obj\Debug\netcoreapp2.2\Optocoder.Service.dll
+C:\Users\User\source\repos\Optcoder.Web.Core\Optocoder.Service\obj\Debug\netcoreapp2.2\Optocoder.Service.pdb
