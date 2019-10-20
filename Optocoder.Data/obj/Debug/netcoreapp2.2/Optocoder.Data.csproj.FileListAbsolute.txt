@@ -1,8 +1,0 @@
-C:\Users\User\source\repos\Optcoder.Web.Core\Optocoder.Data\bin\Debug\netcoreapp2.2\Optocoder.Data.deps.json
-C:\Users\User\source\repos\Optcoder.Web.Core\Optocoder.Data\bin\Debug\netcoreapp2.2\Optocoder.Data.dll
-C:\Users\User\source\repos\Optcoder.Web.Core\Optocoder.Data\bin\Debug\netcoreapp2.2\Optocoder.Data.pdb
-C:\Users\User\source\repos\Optcoder.Web.Core\Optocoder.Data\obj\Debug\netcoreapp2.2\Optocoder.Data.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\Optcoder.Web.Core\Optocoder.Data\obj\Debug\netcoreapp2.2\Optocoder.Data.AssemblyInfoInputs.cache
-C:\Users\User\source\repos\Optcoder.Web.Core\Optocoder.Data\obj\Debug\netcoreapp2.2\Optocoder.Data.AssemblyInfo.cs
-C:\Users\User\source\repos\Optcoder.Web.Core\Optocoder.Data\obj\Debug\netcoreapp2.2\Optocoder.Data.dll
-C:\Users\User\source\repos\Optcoder.Web.Core\Optocoder.Data\obj\Debug\netcoreapp2.2\Optocoder.Data.pdb
